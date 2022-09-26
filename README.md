@@ -1,0 +1,1 @@
+# Android Affirmations Sample Project
