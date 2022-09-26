@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/baskervville_regular" />
+    <font
+        android:font="@font/inter_light" />
+    <font
+        android:font="@font/libre_baskerville_bold" />
+    <font
+        android:font="@font/roboto_regular" />
+    <font
+        android:font="@font/anton_regular" />
+    <font
+        android:font="@font/bungeespice_regular" />
+    <font
+        android:font="@font/raleway_regular" />
+</font-family>
